@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
+	<flow name="githubtestFlow" doc:id="fee91d9b-8ad6-4b9c-a247-60c5e3227e3a" >
+		<logger level="INFO" doc:name="Logger" doc:id="7ef002cf-0371-4555-8082-c902cff0d230" />
+	</flow>
+</mule>
