@@ -3,7 +3,8 @@
 <mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
-	<flow name="githubtestFlow" doc:id="fee91d9b-8ad6-4b9c-a247-60c5e3227e3a" >
+	<flow name="githubtestFlow1" doc:id="e1571e26-b74c-4f2f-b98a-39e38f5fd5b0" >
+		<logger level="INFO" doc:name="Logger" doc:id="5d12e852-4dfa-4063-8fbe-37fab565d4ef" />
 		<logger level="INFO" doc:name="Logger" doc:id="7ef002cf-0371-4555-8082-c902cff0d230" />
 	</flow>
 </mule>
